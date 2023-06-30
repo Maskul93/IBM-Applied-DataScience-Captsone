@@ -1,6 +1,6 @@
 # Applied Data Science Capstone
 
-<div style="width:100%;height:0;padding-bottom:64%;position:relative;"><iframe src="https://giphy.com/embed/3og0IvAdrwbryA5sLm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p></p>
+![](https://media4.giphy.com/media/3og0IvAdrwbryA5sLm/giphy.gif?cid=ecf05e478zbag1k72o4jh0k4cd7u201zdyyxymvg7fzk81vo&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 This repository contains all the material I developed for achieving the <a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science Professional Certificate</a>.
 
