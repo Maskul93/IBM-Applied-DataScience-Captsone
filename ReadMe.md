@@ -58,5 +58,12 @@ Moreover:
 - <code>spacex_dash_app.py</code> contains the **interactive dashboard**. It is intended for user friendly data exploration and visualization, i.e., for the stakeholders.
 
 ## Credits
+Here it is the certificate I earned:
+
+![https://www.coursera.org/account/accomplishments/specialization/certificate/LVRDV3NLH5B3](IBM_Data_Science_Professional_Certificate.png)]
+
+
+
 Guido Mascia, PhD. 
+
 Email: <a href="mailto:mascia.guido@gmail.com">mascia.guido@gmail.com</a>
