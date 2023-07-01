@@ -60,9 +60,7 @@ Moreover:
 ## Credits
 Here it is the certificate I earned:
 
-![https://www.coursera.org/account/accomplishments/specialization/certificate/LVRDV3NLH5B3](IBM_Data_Science_Professional_Certificate.png)]
-
-
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/LVRDV3NLH5B3" rel="some text">![The Certificate](IBM_Data_Science_Professional_Certificate.png)</a>
 
 Guido Mascia, PhD. 
 
